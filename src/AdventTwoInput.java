@@ -2,7 +2,8 @@
 public class AdventTwoInput {
 
 
-	public String[] inputs = {
+	public String[] inputs = 
+		{
 			"4x23x21",
 			"22x29x19",
 			"11x4x11",
